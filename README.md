@@ -5,4 +5,4 @@ Numero de comision: 07
 
 Grupo: 06
 
-Integrantes: Alan Garcia, Martin Romero, Carlos Daniel Benitez
+Integrantes: Alan Garcia, Martin Romero, Carlos Daniel Benitez, Jazmin
